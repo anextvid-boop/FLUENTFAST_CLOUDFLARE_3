@@ -1,0 +1,7 @@
+{
+  "name": "FLUENTFAST — CONVERSATIONS",
+  "description": "A two-player, face-to-face, shared-device language learning application focusing on conversational fluency.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
